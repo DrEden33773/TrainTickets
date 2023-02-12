@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/eden/CollegeLearningRepo/DS_CurriculumDesign/TrainTickets",
+  "arguments": ["/usr/local/bin/gcc", "-c", "-m64", "-std=c++14", "-o", "build/.objs/TrainTickets/linux/x86_64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
